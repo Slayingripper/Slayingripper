@@ -7,7 +7,7 @@ I love contributing to the opensource community by making most of my projects li
 Skills: ARM assembly /C/ C++ / C#/Java/Python/Haskell/ JS /HTML/ CSS
 
 - 🔭 I’m currently working on APRS 
-- 🌱 I’m currently learning Msc Cybersecuirity 
+- 🌱 I’m currently doing a Phd in Cybersecuirity Analytics
 - 👯 I’m looking to collaborate on [APRSnodemcuTCP-IP](https://github.com/Slayingripper/APRSnodemcuTCP-IP) , [METEO_APRS](https://github.com/Slayingripper/METEO_APRS)
 - 💬 Ask me about Anything 
 - 📫 How to reach me: [Here](https://www.linkedin.com/in/vasilis-ieropoulos-176507138/) 
