@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Vasilis Ieropoulos
 #### I am a Msc Cybersecuirity student and a HamRadio operator (5B4ANU)
-![I am Msc Cybersecuirity student and a HamRadio operator (5B4ANU)](https://s3.amazonaws.com/files.qrz.com/u/5b4anu/0_jpeg.jpg)
+![I am Phd Cybersecuirity student and a HamRadio operator (5B4ANU)](https://s3.amazonaws.com/files.qrz.com/u/5b4anu/0_jpeg.jpg)
 
 I love contributing to the opensource community by making most of my projects live and forking existing projects putting my own little spin on them.
 
