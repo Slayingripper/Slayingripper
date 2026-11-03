@@ -15,6 +15,4 @@ Skills: ARM assembly /C/ C++ / C#/Java/Python/Haskell/ JS /HTML/ CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/slayingripper)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vasilis-ieropoulos-176507138/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/billyhollywilly273/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackaday.svg' alt='hackaday' height='40'>](https://www.qrz.com/db/5B4ANU)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=slayingripper&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/slayingripper)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=slayingripper&theme=dark)](https://git.io/streak-stats)
